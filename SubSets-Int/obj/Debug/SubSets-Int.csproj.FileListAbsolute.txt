@@ -1,0 +1,6 @@
+C:\Users\Robert\Documents\Int-Prep\SubSets-Int\SubSets-Int\bin\Debug\SubSets-Int.exe.config
+C:\Users\Robert\Documents\Int-Prep\SubSets-Int\SubSets-Int\obj\Debug\SubSets-Int.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Int-Prep\SubSets-Int\SubSets-Int\bin\Debug\SubSets-Int.exe
+C:\Users\Robert\Documents\Int-Prep\SubSets-Int\SubSets-Int\bin\Debug\SubSets-Int.pdb
+C:\Users\Robert\Documents\Int-Prep\SubSets-Int\SubSets-Int\obj\Debug\SubSets-Int.exe
+C:\Users\Robert\Documents\Int-Prep\SubSets-Int\SubSets-Int\obj\Debug\SubSets-Int.pdb
